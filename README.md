@@ -1,29 +1,37 @@
-<h1 align="center">Hi 👋, I'm Sharafat Ali</h1>
-<h3 align="center">A Talented Artist, Graphic Designer, and 3D Modeler from Pakistan.</h3>
+# 👋 Welcome to My GitHub Profile!  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharafaty" alt="sharafaty" /></a> </p>
+### 🎨 Talented Artist | 🌟 Graphic Designer | 🖌️ 3D Modeler | 🎯 UI/UX Designer  
 
-<p align="left"> <a href="https://twitter.com/hisharafat" target="blank"><img src="https://img.shields.io/twitter/follow/hisharafat?logo=twitter&style=for-the-badge" alt="hisharafat" /></a> </p>
+Hello! I'm **Sharafat Ali**, a creative professional from **Pakistan**, with a passion for designing exceptional user experiences and crafting stunning visuals. My expertise spans **art**, **graphic design**, **3D modeling**, and **UI/UX design**, bringing imagination and functionality to every project.  
 
-- 🌱 I’m currently learning **Unity**
+---
 
-- 🤝 I’m looking for help with **GameDev**
+## 🌟 About Me  
+- 🎨 **Artist:** Creating breathtaking digital and traditional artwork.  
+- 🖌️ **Graphic Designer:** Building impactful designs for branding and marketing.  
+- 🖥️ **3D Modeler:** Designing realistic and stylized models for games, animations, and simulations.  
+- 🎯 **UI/UX Designer:** Delivering intuitive, user-friendly designs for web and mobile platforms.  
+- 🌍 **Location:** Pakistan  
+- 📧 **Contact:** hi.sharafat@gmail.com  
+- 🌍 **PortFolio:** [Sharafaty](https://sharafaty.github.io/)
 
-- 💬 Ask me about **GameDev, Graphic Design ,Marketing**
+---
 
-- 📫 How to reach me **Email: hi.sharafat@gmail.com**
+## 💼 My Expertise  
+- **Design Tools:**  
+  - Adobe Photoshop, Illustrator, After Effects, and XD  
+  - Figma, Sketch, and InVision  
+  - Blender, Autodesk Maya, and ZBrush  
+- **Specializations:**  
+  - Logo design, branding, and illustration  
+  - UI/UX design for responsive websites and mobile apps  
+  - 3D modeling, texturing, and rendering  
 
-- ⚡ Fun fact **The Ninja of Silence from Pakistan.**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/hisharafat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hisharafat" height="30" width="40" /></a>
-<a href="https://instagram.com/hi.sharafat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hi.sharafat" height="30" width="40" /></a>
-</p>
+## 🌟 Let's Collaborate!  
+I’m always open to exciting projects and collaborations. Whether you’re looking for a unique design, a user-friendly interface, or a 3D masterpiece, feel free to connect with me!  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sharafaty&show_icons=true&locale=en&layout=compact" alt="sharafaty" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharafaty&" alt="sharafaty" /></p>
+### 🎉 Thank you for visiting my profile! Together, let’s create extraordinary experiences and visuals.  
